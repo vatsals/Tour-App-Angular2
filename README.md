@@ -4,4 +4,7 @@ This is a tour planning application which is developed using Angular2 and it pre
 3. Create a waypoint using the form 
 4. Download the Selected waypoints in a JSON file 
 
-The application has been built in such a way that waypoints are stored in the LocalStorage of the browser and hence they remain intact even when the page is refreshed.
+The application has been built in such a way that waypoints are stored in the LocalStorage of the browser and hence they remain intact even when the page is refreshed. 
+
+Here's the link to live demo of the application: https://youtu.be/3fzAPJDoxUk
+
